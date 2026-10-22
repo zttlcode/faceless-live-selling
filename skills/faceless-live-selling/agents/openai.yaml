@@ -1,0 +1,4 @@
+interface:
+  display_name: "不出镜直播话术"
+  short_description: "按人数档位和福利或价值倾向，为不出镜直播生成一份完整口语稿"
+  default_prompt: "使用 $faceless-live-selling，根据我的商品资料、直播时长、人数档位和每款的福利或价值倾向，以课程为核心生成一份完整口语直播稿，不要附稿或逐句语气提示。"
